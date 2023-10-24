@@ -1,0 +1,38 @@
+.movie{
+    margin-top:-35px;
+    width: 100%;
+    height: 700px;
+    background: rgb(178,59,243);
+    background: linear-gradient(90deg, rgba(178,59,243,1) 0%, rgba(133,40,199,1) 47%, rgba(92,21,164,1) 100%);
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+.atropos{
+    width: 400px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.movie__align{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.movie__time {
+    text-align: center;
+    margin-top: 10px;
+    font-family: var(--font-elegante);
+    font-size: 40px;
+}
+
+.rodape{
+    font-family: var(--font-secundaria);
+    color: white;
+    padding: 50px;
+    background-color: black;
+}
